@@ -1,6 +1,6 @@
 #George Plus
 ============
-George (Formal Logic parser) enhancer.
+George (Formal Logic parser) enhancer used for SE 212 course at University of Waterloo.
 
 Adds the following new features:
 - Syntax Highlighting
