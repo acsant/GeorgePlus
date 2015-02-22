@@ -1,6 +1,5 @@
 #George Plus
 ============
-
 George (Formal Logic parser) enhancer.
 
 Adds the following new features:
